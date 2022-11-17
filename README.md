@@ -9,7 +9,7 @@ API stands for Application Programming Interface. An API is a software intermedi
 <p>In this project API is build using following Technology.</p>
 <ul>
     <li>Python</li>
-    <li>Django</li>
+    <li>Django 4.0.4</li>
     <li>Django Rest Framework</li>
     <li>SQLite3</li>
     <li>Anaconda</li>
